@@ -1,7 +1,7 @@
-## Hi there 👋
+## 👋 À propos de moi
 
 <!--
-**DjafarouAbdou909/DjafarouAbdou909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DjafarouAbdou909/DjafarouAbdou909** is a ✨ Je suis un étudiant passionné par la technologie, l’intelligence artificielle et la résolution de problèmes réels grâce au code.
 
 Here are some ideas to get you started:
 
