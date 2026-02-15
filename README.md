@@ -58,6 +58,7 @@ Machine learning
 Data Science
 
 React
+
 Déploiement Cloud
 
 __________________________________________________________________________________________________________________________________________________________________________________________________
@@ -65,5 +66,7 @@ ________________________________________________________________________________
 🤝 **Me contacter**
 
 📧 Email : djafarouabdoou@gmail.com
+
 🔗 LinkedIn : www.linkedin.com/in/djafarou-abdou
+
 🌐 Portfolio : https://djafarou-portfolio.onrender.com/
