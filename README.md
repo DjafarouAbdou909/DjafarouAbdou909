@@ -21,9 +21,13 @@ Mon objectif est clair :
 Je m’intéresse particulièrement à :
 
 🤖 Machine Learning
+
 🧠 Intelligence Artificielle
+
 🌐 Développement Web (Fullstack)
+
 📊 Analyse de données
+
 🐍 Python & Django
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
