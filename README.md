@@ -1,72 +1,24 @@
-## 👋 Welcome to my GitHub
+## 👋 Welcome to Abdou DJafarou’s GitHub!
 
-**Djafarou Abdou**
+**💻 Computer Engineering Student | Self-taught in Machine Learning**
 
-🎓 Étudiant en Informatique
 
-🤖 Passionné d’Intelligence Artificielle & Robotique
+🌱 Exploring **Data Science, ML projects, and AI experiments**
 
-🌍 Côte d’Ivoire
 
-___________________________________________________________________________________________________________________________________________________________________________________________________
+📂 Check out my work, learn, and maybe **dab along the way!**
 
-👋 **À propos de moi**
+✨ **Highlights:**
 
-Je suis un étudiant passionné par la **technologie**, l’**intelligence artificielle** et la **résolution de problèmes réels grâce au code.**
+Python & ML scripts
 
-Mon objectif est clair :
+Data analysis & visualization
 
-  Construire des solutions technologiques innovantes pour contribuer au développement de l’Afrique.
+Hands-on ML projects
 
-Je m’intéresse particulièrement à :
+Let’s learn, build, and innovate together! 🚀
 
-🤖 Machine Learning
-
-🧠 Intelligence Artificielle
-
-🌐 Développement Web (Fullstack)
-
-📊 Analyse de données
-
-🐍 Python & Django
-
-___________________________________________________________________________________________________________________________________________________________________________________________________
-
-🛠️ **Compétences Techniques**
-
-💻 **Langages**
-
-Python
-
-HTML / CSS
-
-JavaScript
-
-SQL
-
-**⚙️ Frameworks & Outils**
-
-Django
-
-Git & GitHub
-
-SQLite
-
-VS Code
-
-Render
-
-**📚 En apprentissage continu**
-
-Machine learning
-
-Data Science
-
-React
-
-Déploiement Cloud
-
-__________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
 
 🤝 **Me contacter**
 
